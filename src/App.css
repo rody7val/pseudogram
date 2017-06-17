@@ -1,0 +1,74 @@
+.App {
+  position: relative;
+  display: inline-block;
+  border: 5px solid red;
+}
+
+.App-header {
+  text-align: center;
+  height: 150px;
+  padding: 20px;
+  color: #444;
+}
+
+.App-login {
+  margin: 0px;
+  border: 5px solid transparent;
+  font-size: large;
+}
+
+.App-upload {
+  text-align: center;
+  border: 5px solid transparent;
+}
+
+.App-images {
+  text-align: center;
+  border: 5px solid transparent;
+}
+
+.box {
+  display: inline-block;
+  float: left;
+  text-align: left!important;
+  padding: 5px;
+  border-right: 3px solid transparent;
+  border-bottom: 3px solid transparent;
+}
+
+hr {
+  margin: 16px auto 15.5px;
+  border-color: #444;
+  background-color: #444;
+}
+span, p {
+  color: #444;
+}
+
+pre {
+  color: #444;
+  position: absolute;
+  left: 600px;
+  top: 0px;
+}
+
+.img-user {
+  border-radius: 50%;
+}
+
+.red {
+  border-color: red;
+  color: red;
+}
+.yellow {
+  border-color: yellow;
+  color: yellow;
+}
+.blue {
+  border-color: blue;
+  color: blue;
+}
+.pink {
+  border-color: pink;
+  color: pink;
+}
